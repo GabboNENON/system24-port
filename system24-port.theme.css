@@ -19,7 +19,13 @@ body {
     right: 18px !important;
     border: none !important;
   }
-
+  .page_c48ade {
+    max-height: 95vh !important;
+    padding-bottom: 0 !important;
+  }
+  .content__99f8c {
+    max-height: 95vh !important;
+  }
   /* Removes border from outer chat container */
   .chatContent_f75fb0 {
     border: none !important;
@@ -31,6 +37,11 @@ body {
     border: 1px solid var(--border-subtle) !important;
     /* Separates messages from the typing area */
     margin-bottom: var(--gap) !important;
+  }
+  .chatLayerWrapper__01ae2 {
+    margin-bottom: 0 !important;
+    bottom: 0 !important;
+    height: 100% !important;
   }
 
   /* Add back borders to the typing area */

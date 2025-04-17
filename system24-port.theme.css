@@ -20,11 +20,12 @@ body {
     border: none !important;
   }
   .page_c48ade {
-    max-height: 95vh !important;
+    max-height: 95.15vh !important;
+    margin-bottom: var(--gap) !important;
     padding-bottom: 0 !important;
   }
   .content__99f8c {
-    max-height: 95vh !important;
+    max-height: 96vh !important;
   }
   /* Removes border from outer chat container */
   .chatContent_f75fb0 {
